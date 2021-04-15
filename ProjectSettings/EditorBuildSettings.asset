@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Examples/0-sum-numbers-sse3/SumNumbers_SSE3_Scene.unity
+    guid: c5e80c7f43456c241a8ab44f68dd5faa
+  - enabled: 1
+    path: Assets/Examples/1-count-small-numbers-sse2/CountSmallNumbers_SSE2_Scene.unity
+    guid: 3a0e1f1737267604199a127079b14e29
+  - enabled: 1
+    path: Assets/Examples/2-sum-small-numbers-sse3/SumSmallNumbers_SSE3_Scene.unity
+    guid: 7436cfc3f94c7a049916907d26930266
+  m_configObjects: {}
